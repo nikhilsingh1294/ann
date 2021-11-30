@@ -1,2 +1,2 @@
 # ann
-Self learned Machine Learning and Deep Learning contents.
+Self learnt Machine Learning and Deep Learning contents.
